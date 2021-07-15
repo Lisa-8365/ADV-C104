@@ -1,0 +1,20 @@
+body{
+    color: beige;
+    background: violet;
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+
+.name_of_members, #result_members_name, #result_members_accuracy{
+    color: rgb(233, 51, 121);
+}
+
+#camera{
+    border: 2px dashed rgb(233, 50, 178);
+    width: 350px;
+    height: 300px;
+}
+
